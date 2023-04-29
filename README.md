@@ -1,6 +1,6 @@
-<div align="center">자바스크립트 개발자를 꿈꾸고 있습니다</div>
+<!--<div align="center">자바스크립트 개발자를 꿈꾸고 있습니다</div>
 <div align="center">프론트엔드 백엔드 가리지 않고 자바스크립트 생태계에서 헤엄치는 엔지니어가 되고 싶습니다</div>
-
+-->
 <hr>
 <div align="center">⚙tech stack</div>
 <br>
